@@ -1,0 +1,13 @@
+{
+    "name": "sethbattis/rss2html",
+    "description": "Render an RSS feed as HTML",
+    "authors": [
+        {
+            "name": "Seth Battis",
+            "email": "seth@battis.net"
+        }
+    ],
+    "require": {
+	"kellan/magpierss": "dev-master"
+    }
+}
